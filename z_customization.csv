@@ -1,9 +1,10 @@
 "Create New Customer Account","Creazione di un nuovo account cliente"
 "Customer Login","Login cliente"
+"My Account","Il mio Account"
 "New Address","Nuovo indirizzo"
+"Regular Price","Prezzo predefinito"
 "Ship Here","Usare",module,Magento_Checkout
 "Ship here","Usare",module,Magento_Checkout
 "Shipping Info","Informazioni di spedizione"
 "Show Password","Mostra password"
-"Regular Price","Prezzo predefinito"
 "Special Price","Prezzo speciale"
